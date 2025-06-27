@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# Virtual envs (if you have any locally)
+.venv/
